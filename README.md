@@ -1,8 +1,5 @@
-# fcc_js1_palindrome
-
-Free Code Camp
-
-JavaScript Algorithms and Data Structures Projects: Palindrome Checker
+# Palindrome Checker
+## Free Code Camp JavaScript Algorithms and Data Structures Projects
 
 Return true if the given string is a palindrome. Otherwise, return false.
 
