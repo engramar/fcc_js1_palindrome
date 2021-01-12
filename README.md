@@ -1,7 +1,6 @@
 # fcc_js1_palindrome
 
 Free Code Camp
-==============
 
 JavaScript Algorithms and Data Structures Projects: Palindrome Checker
 
