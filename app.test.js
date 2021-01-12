@@ -46,7 +46,7 @@ describe('Palindrome', () => {
         expect(Palindrome('0_0 (: /-\ :) 0-0')).toBe(true); 
     });
 
-    test('Test Case 11 - Check if palindrome', () => {
+    test('Test Case 12 - Check if palindrome', () => {
         expect(Palindrome('five|\_/|four')).toBe(false); 
     });
 
